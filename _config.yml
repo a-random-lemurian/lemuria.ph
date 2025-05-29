@@ -1,0 +1,30 @@
+title: Lemuria
+
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://lemuria.ph" # the base hostname & protocol for your site, e.g. http://example.com
+
+# author:
+#   name: Lemuria
+#   email: your-email@domain.com
+
+description: >-
+  A person on the internet.
+
+base_url: /blog
+
+theme: lemuria.ph-theme
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
+
+permalink: /:year/:title/
+
+# Set to `true` to show excerpts on the homepage.
+show_excerpts: true
+
+date_format: "%Y-%m-%d"
