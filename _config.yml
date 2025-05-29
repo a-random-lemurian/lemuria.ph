@@ -12,6 +12,8 @@ description: >-
 
 base_url: /blog
 
+show_ming: true
+
 theme: lemuria.ph-theme
 
 plugins:
