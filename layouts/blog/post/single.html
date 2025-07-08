@@ -1,0 +1,20 @@
+{{ define "main" }}
+<a href="/blog">
+    &leftarrow; Return to blog
+</a>
+<h1>{{ .Title }}</h1>
+<div class="post-meta byline">
+    {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+    {{ $dateHuman := .Date | time.Format "2006-01-02 15:04:05 -07:00" }}
+    <div class="times">
+        <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+    </div>
+    <div class="post-authors">
+        By {{ .Params.author }}
+    </div>
+</div>
+<div class="post-content">
+    {{ .Content }}
+</div>
+{{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+{{ end }}
