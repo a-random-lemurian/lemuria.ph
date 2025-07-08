@@ -1,8 +1,8 @@
 ---
-layout: post
-title: "QGIS is surprisingly good at 2D starmaps"
 author: Lemuria
-date: 2025-06-21 22:04:31 +0800
+date: "2025-06-21T22:04:31Z"
+title: QGIS is surprisingly good at 2D starmaps
+slug: qgis-for-rpgs
 ---
 
 QGIS is free and open-source GIS software. Typically, the G would stand for "geographic", but there's nothing saying we can't redefine the G to make it mean "galactographic" instead. While in the real world, galaxies are 3D, and QGIS is meant for flat 2D maps and not complex 3D objects like the Milky Way, many science fiction universes use a 2D map anyway, since it's convenient and doesn't require users to learn any strange or funky controls.

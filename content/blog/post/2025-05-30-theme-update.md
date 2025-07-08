@@ -1,8 +1,8 @@
 ---
-layout: post
-title: "Update to the theme"
 author: Lemuria
-date: 2025-05-30 04:54:03 +0800
+date: "2025-05-30T04:54:03Z"
+title: Update to the theme
+slug: theme-update
 ---
 
 I updated my custom Jekyll theme yet again; major additions include a change to the way posts are listed, some excerpts, and even a photo of Ming at the bottom.

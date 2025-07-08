@@ -1,0 +1,12 @@
+baseURL: https://lemuria.ph
+disablePathToLower: true
+languageCode: en-us
+title: Lemuria
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+summaryLength: 1
+permalinks:
+  page:
+    blog: /blog/:year/:slug

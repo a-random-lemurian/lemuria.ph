@@ -1,0 +1,248 @@
+@import "highlight";
+    
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
+
+body {
+    background: rgb(24, 24, 24);
+    color: #fff;
+    font-family: 'Gentium Book Plus', serif;
+    margin: 2px auto;
+    max-width: 800px;
+    padding-left: 5px;
+    padding-right: 5px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    display: block;
+}
+
+a:link {
+    color: lightcoral;
+}
+
+a:visited {
+    color: lightgreen;
+}
+
+#map {
+    width: 800px;
+    height: 500px;
+    text-align: left;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-top: 5px;
+    content: ' ';
+    display: block;
+    border-bottom: 1px solid rgb(104, 104, 104);
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+h1.post-title {
+    font-size: 2.3em;
+}
+
+.page-content {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+ul.post-list {
+    list-style: none;
+}
+
+.post-list li {
+    .top-row {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    p {
+        margin: 0;
+    }
+
+    border-top: 1px solid rgb(104, 104, 104);
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.post-title {
+    font-size: 130%;
+}
+
+.statistics {
+    border-top: 1px solid rgb(104, 104, 104);
+    margin-top: 10px;
+    padding-top: 10px;
+
+    .post-count {
+        text-align: center;
+    }
+}
+
+.post {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.post-content {
+    flex: 1;
+}
+
+.post-footer {
+    p {
+        margin: 5px;
+    }
+}
+
+.horizontal-list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    display: inline;
+
+    ul {
+        padding: 0px;
+    }
+    li {
+        padding: 5px;
+    }
+}
+
+.tags, .categories {
+    display: flex;
+}
+
+.footer {
+    padding-bottom: 120px;
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    font-size: 90%;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.navbar-container {
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 40px;
+    background-color: #000;
+    color: white;
+    font-family: "Noto Sans", sans-serif;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #ccc;
+    padding: 0 15px;
+}
+
+.links {
+    padding: 16px;
+}
+
+.logo {
+    padding: 8px;
+}
+
+.site-footer {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    border-top: 1px solid rgb(104, 104, 104);
+    ;
+
+    .wrapper {
+        padding: 15px;
+    }
+}
+
+.byline {
+    font-size: 120%;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(104, 104, 104);
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.footer-col-wrapper {
+    display: flex;
+    justify-content: space-between;
+
+    ul {
+        list-style: none
+    }
+}
+
+.footer-col {
+    min-width: 170px;
+}
+
+.footer-col-logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center
+}
+
+.page-navigation {
+    border-bottom: 1px solid rgb(104, 104, 104);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ming-cat {
+    display: flex;
+    justify-content: center;
+}
+
+.bottom-matter-links {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 20px;
+
+    li {
+        list-style: none;
+    }
+}

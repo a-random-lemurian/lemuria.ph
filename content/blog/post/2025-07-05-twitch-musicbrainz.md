@@ -1,8 +1,8 @@
 ---
-layout: post
-title: "New project: Adding Twitch streamers and their originals to MusicBrainz"
 author: Lemuria
-date: 2025-07-08 12:30:14 +0800
+date: "2025-07-05T12:30:14Z"
+title: 'New project: Adding Twitch streamers and their originals to MusicBrainz'
+slug: twitch-musicbrainz
 ---
 
 I've been at it for a while, but I've spent much of the early parts of July adding Twitch musicians to [MusicBrainz](https://musicbrainz.org). MusicBrainz is a crowdsourced database of music, collecting metadata like releases, titles, release dates, artists, and URLs for streaming services and artists' social media pages. It is not a streaming service, nor does it host any music files.

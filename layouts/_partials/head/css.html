@@ -1,0 +1,11 @@
+{{- with resources.Get "css/main.scss" }}
+{{- if hugo.IsDevelopment }}
+{{ $sass := resources.Get "css/main.scss" | toCSS }}
+<link rel="stylesheet" href="{{ $sass.Permalink }}">
+{{- else }}
+{{- with . | minify | fingerprint }}
+{{ $sass := resources.Get "css/main.scss" | toCSS | minify }}
+<link rel="stylesheet" href="{{ $sass.Permalink }}">
+{{- end }}
+{{- end }}
+{{- end }}

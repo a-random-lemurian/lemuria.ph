@@ -1,8 +1,8 @@
 ---
-layout: post
-title: "Meowing at people over UDP"
 author: Lemuria
-date: 2025-06-06 15:18:42 +0800
+date: "2025-06-06T15:18:42Z"
+title: Meowing at people over UDP
+slug: meow-protocol
 ---
 
 I've developed a new work-in-progress protocol for hosts to meow at each other over UDP port 32390. A reference implementation in Go, alongside a Lua dissector for looking at Meow Protocol packets in Wireshark, are available at [a-random-lemurian/meow-protocol](https://github.com/a-random-lemurian/meow-protocol) on GitHub.
