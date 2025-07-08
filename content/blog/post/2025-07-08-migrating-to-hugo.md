@@ -2,6 +2,7 @@
 title: "Migrating to Hugo"
 date: 2025-07-08T17:16:30+08:00
 slug: "migrating-to-hugo"
+author: Lemuria
 ---
 
 I migrated to [Hugo](https://gohugo.io/). It took a while, but we made it to the other side.
