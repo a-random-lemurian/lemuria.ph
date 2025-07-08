@@ -10,3 +10,6 @@ summaryLength: 1
 permalinks:
   page:
     blog: /blog/:year/:slug
+
+params:
+  gitRepoUrl: https://github.com/a-random-lemurian/lemuria.ph
