@@ -55,7 +55,7 @@ The "OWOT Starmap". OWOT isn't an RPG, but rather, a website. I made a starmap w
 
 While not my first map; this was the first one that I deployed online in a slippy map format.
 
-<img src="{{"/img/2025-06-22.owot-cat.png" | relative_url }}" width="100%">
+{{< figure src="/img/2025-06-22.owot-cat.png" width=100% >}}
 
 Notice how the "Lemurian Territories" and "Eastern Lemuria" are the largest areas on the map.
 
