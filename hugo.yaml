@@ -11,5 +11,23 @@ permalinks:
   page:
     blog: /blog/:year/:slug
 
+mediaTypes:
+  application/atom+xml:
+    suffixes:
+    - xml
+
+outputFormats:
+  atom:
+    mediaType: application/atom+xml
+    noUgly: true
+    baseName: feed
+
+outputs:
+  home:
+  - html
+  section:
+  - html
+  - atom
+
 params:
   gitRepoUrl: https://github.com/a-random-lemurian/lemuria.ph
