@@ -6,6 +6,11 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    parser:
+      autoHeadingID: true
+    extensions:
+      typographer: false
+
 summaryLength: 1
 permalinks:
   page:
