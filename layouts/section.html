@@ -1,5 +1,7 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
-{{ .Content }}
+<div class="blurb">
+    {{ .Content }}
+</div>
 {{ partial "post_listing.html" . }}
 {{ end }}

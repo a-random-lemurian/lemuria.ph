@@ -78,20 +78,30 @@ ul.post-list {
     list-style: none;
 }
 
-.post-list li {
-    .top-row {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
+.post-list {
+    li {
+        .top-row {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+
+        p {
+            margin: 0;
+        }
+
+
+        padding-top: 10px;
     }
 
-    p {
-        margin: 0;
+    li:not(:first-child) {
+        border-top: 1px solid rgb(104, 104, 104);
+        margin-top: 10px;
     }
+}
 
-    border-top: 1px solid rgb(104, 104, 104);
-    padding-top: 10px;
-    margin-top: 10px;
+.blurb {
+    border-bottom: 1px solid rgb(104, 104, 104);
 }
 
 .post-title {
