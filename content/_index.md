@@ -28,6 +28,10 @@ the net?
 I don't stream or make videos, but I leave comments.
 </p>
 
+Since 2026-02-17, I have had a PGP key, with the fingerprint `FAE4EB76583911333CFDD41A93FA2B90940756A4`.
+
+Full key <a href="/static/lemuria.ph-FAE4EB76583911333CFDD41A93FA2B90940756A4.key">here</a>.
+
 <h3>OpenGeofiction</h3>
 <p>
 <b>OpenGeofiction</b> is a fictional mapping website that I was most
