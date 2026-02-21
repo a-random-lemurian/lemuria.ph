@@ -21,7 +21,7 @@ the net?
 <li><b>YouTube:</b> <a href="https://youtube.com/@a-random-lemurian">Lemuria (@a_random_lemurian)</a></li>
 <li><b>Twitch:</b> <a href="https://twitch.tv/a_random_lemurian">a_random_lemurian</a></li>
 <li><b>Mastodon:</b> <a rel="me" href="https://mas.to/@lemuria">@lemuria@mas.to</a></li>
-<li><b>Discord:</b> `lemuria0685` (Discord ID: `446492687013773323`)/li>
+<li><b>Discord:</b> `lemuria0685` (Discord ID: `446492687013773323`)</li>
 <li><b>Matrix:</b> <code>@a-random-lemurian:matrix.org</code> (or my personal room at <a href="https://matrix.to/#/#lemuriaph-general:matrix.org" style="font-family:monospace;">#lemuriaph-general.matrix.org"</a>)</li>
 <li><del><b>IRC (Libera.Chat)</b> <code>##lemuria</code> at <code>irc.libera.chat</code> (<a href="https://web.libera.chat/?channel=##lemuria">connect via web chat</a>) Lemuria barely checks this place, don't bother</del></li></ul>
 <p>
