@@ -23,7 +23,10 @@ the net?
 <li><b>Mastodon:</b> <a rel="me" href="https://mas.to/@lemuria">@lemuria@mas.to</a></li>
 <li><b>Discord:</b> `lemuria0685` (Discord ID: `446492687013773323`)</li>
 <li><b>Matrix:</b> <code>@a-random-lemurian:matrix.org</code>, <code>@lemuria:4d2.org</code>, and <code>@lemuria:lemuria.ph</code> (or my personal room at <a href="https://matrix.to/#/#lemuriaph-general:matrix.org" style="font-family:monospace;">#lemuriaph-general.matrix.org"</a>)</li>
-<li><del><b>IRC (Libera.Chat)</b> <code>##lemuria</code> at <code>irc.libera.chat</code> (<a href="https://web.libera.chat/?channel=##lemuria">connect via web chat</a>) Lemuria barely checks this place, don't bother</del></li></ul>
+<li><del><b>IRC (Libera.Chat)</b> <code>##lemuria</code> at <code>irc.libera.chat</code> (<a href="https://web.libera.chat/?channel=##lemuria">connect via web chat</a>) Lemuria barely checks this place, don't bother</del></li>
+<li><b>Email:</b> You know what to do. Try adding `lemuria` to the root domain name, with the at-sign in the middle of it all. If you're a spam bot, you probably don't know what to do and should stop polluting the Internet with your spam mail. <small>If you are Sarah, or you know what 4d2 is, thank you to them for generously being my outgoing relay!</small>
+</ul>
+
 <p>
 I don't stream or make videos, but I leave comments.
 </p>
