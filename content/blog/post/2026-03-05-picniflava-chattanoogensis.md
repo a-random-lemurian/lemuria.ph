@@ -1,7 +1,6 @@
 ---
 title: "<i>Picniflava chattanoogensis</i> sp. nov: An introduction to <i>Picniflava</i>"
 date: 2026-03-05T10:15:29+08:00
-draft: true
 slug: "picniflava-chattanoogensis"
 author: Lemuria
 ---
