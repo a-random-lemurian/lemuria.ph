@@ -5,7 +5,7 @@ slug: "picniflava-chattanoogensis"
 author: Lemuria
 ---
 
-As we all may know, the First Lemurian Clothing Taxonomy (LCT-01) has been running for a long while. If you're new to it, read the [primer](blog/2026/the-first-lemurian-clothing-taxonomy/), as it will help.
+As we all may know, the First Lemurian Clothing Taxonomy (LCT-01) has been running for a long while. If you're new to it, read the [primer](/blog/2026/the-first-lemurian-clothing-taxonomy/), as it will help.
 
 *Picniflava* will hopefully be a good way to get to posting about this taxonomy; after all, it was covered in the primer alongside its sister genus *Georgetta*, and its family, Amidalidae.
 
