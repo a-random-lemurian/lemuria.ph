@@ -1,7 +1,7 @@
 ---
 title: "Aussie patternmaker Megan Nielsen leaves Insta for her new app, Sewcial"
 date: 2026-07-08T11:19:48+08:00
-draft: true
+draft: false
 author: Lemuria
 slug: "nielsen-and-sewcial"
 ---
