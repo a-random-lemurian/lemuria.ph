@@ -30,3 +30,7 @@ He adopts a strong mindset of openness; believing that the more free and more ac
 
 People have tried to reach out to Nielsen for comment, but they got no reply, so we're not going to try either. The Earth keeps spinning; and both Nielsen's Perth and Lemuria's Manila will be plunged into the dark, and when it returns to the light, the drama shall begin anew. 
 
+---
+
+**Update 2026-07-24**: Sewcial is now known as Sewciable. Name change reasons unknown, but our gut feelings tell us trademark lawyers were involved.
+
