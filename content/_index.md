@@ -1,11 +1,18 @@
+---
+title: Lemuria - Filipino programmer
+---
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Blank_map_of_the_Philippines_%28Provinces%29.svg/500px-Blank_map_of_the_Philippines_%28Provinces%29.svg.png"
 height="100px" style="float: right;" alt="Map of the Philippines">
 <p>
-    Hi, I'm <b>Lemuria</b>. My name is already taken on a lot of other
+    Hi, I'm <b>Lemuria</b>. I am a programmer, well, mostly a programmer,
+    with plenty of other interests including but not limited to fictional
+    mapmaking, linguistics, video games, etc.
+</p>
+<p>
+    My name is already taken on a lot of other
     websites; if that happens I usually go by <b>a_random_lemurian</b>
-    instead. I'm from the Philippines, with an interest in linguistics,
-    fictional maps, and so much more.
+    instead.
 </p>
 <p>
     Also consider checking out the <a href="/blog">blog</a>.
