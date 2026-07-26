@@ -1,6 +1,47 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
-<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title | safeHTML | plainify }}{{ end }}</title>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Person",
+  "name": "Lemuria",
+  "url": "https://lemuria.ph",
+  "sameAs": [
+    "https://github.com/a-random-lemurian",
+    "https://opengeofiction.net/user/Lemuria",
+    "https://openstreetmap.org/user/a-random-lemurian",
+    "https://twitch.tv/a_random_lemurian",
+    "https://instagram.com/lemuriaph",
+    "https://youtube.com/@a-random-lemurian",
+    "https://mas.to/@lemuria",
+    "https://bsky.app/profile/did:plc:4q6z63w556sxnt6qgu2qfyos"
+  ]
+}
+</script>
+{{ if and (eq .Kind "page") (eq .Type "blog")}}<script type="application/ld+json">
+{
+    "@context" : "http://schema.org",
+    "@type" : "BlogPosting",
+    "articleSection" : "{{ .Section }}",
+    "name" : "{{ .Title }}",
+    "headline" : "{{ .Title }}",
+    "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
+    "inLanguage" : "en-US",
+    "author" : "{{ .Params.author }}",
+    "creator" : "{{ .Params.author }}",
+    "accountablePerson" : "{{ .Params.author }}",
+    "copyrightHolder" : "{{ .Params.author }}",
+    "copyrightYear" : "{{ .Date.Format "2006" }}",
+    "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}",
+    "dateModified" : "{{ .Date.Format "2006-01-02T15:04:05-07:00" }}",
+    "url" : "{{ .Permalink }}",
+    "wordCount" : "{{ .WordCount }}",
+    "image" : [ {{ range $i, $e := .Params.images }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} ],
+    "keywords" : [ {{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} ]
+}
+</script>
+{{ end }}
+<title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ printf "%s | %s" .Title site.Title | safeHTML | plainify }}{{ end }}</title>
 {{ partialCached "head/css.html" . }}
 {{ partialCached "head/js.html" . }}
 {{ with .Params.headLinks }}
