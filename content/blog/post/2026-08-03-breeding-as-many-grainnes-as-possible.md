@@ -1,7 +1,7 @@
 ---
 title: "Breeding as Many Gráinnes as Possible"
 date: 2026-08-03T03:04:46+08:00
-draft: true
+draft: false
 author: Lemuria
 slug: "breeding-as-many-grainnes-as-possible"
 ---
