@@ -1,5 +1,45 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
+<meta property="human_easter_egg" content="hi">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+{{ with .Site.Params.title -}}
+  <meta property="og:site_name" content="{{ . }}">
+{{ end -}}
+
+{{ $iso8601 := "2006-01-02T15:04:05-07:00" -}}
+{{ if .IsPage -}}
+  {{ if not .PublishDate.IsZero -}}
+    <meta property="article:published_time" {{ .PublishDate.Format $iso8601 | printf "content=%q" | safeHTMLAttr }}>
+  {{ else if not .Date.IsZero -}}
+    <meta property="article:published_time" {{ .Date.Format $iso8601 | printf "content=%q" | safeHTMLAttr }}>
+  {{ end -}}
+  {{ if not .Lastmod.IsZero -}}
+    <meta property="article:modified_time" {{ .Lastmod.Format $iso8601 | printf "content=%q" | safeHTMLAttr }}>
+  {{ end -}}
+{{ else -}}
+  {{ if not .Date.IsZero -}}
+    <meta property="og:updated_time" {{ .Lastmod.Format $iso8601 | printf "content=%q" | safeHTMLAttr }}>
+  {{ end -}}
+{{ end -}}
+
+{{ with .Params.image }}
+  <meta property="og:image" content="{{ $.Permalink }}{{ . }}">
+{{ end }}
+
+{{ with .Params.audio -}}
+  <meta property="og:audio" content="{{ . | absURL }}">
+{{ end -}}
+
+{{ with .Params.videos -}}
+  {{ range . -}}
+    <meta property="og:video" content="{{ . | absURL }}">
+  {{ end -}}
+{{ end -}}
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
