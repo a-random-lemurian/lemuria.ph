@@ -14,7 +14,7 @@ headLinks: |
     function addmap() {
         ogf = L.tileLayer('https://tile.opengeofiction.net/ogf-carto/{z}/{x}/{y}.png', {
             name: 'mapnik', minZoom: 0, maxZoom: 19,
-            attribution: 'Map data &copy; <a href=\"https://openstreetmap.org\">OpenGeofiction</a>'
+            attribution: 'Lutang map data &copy; Lemuria. Rest of world map data &copy; <a href=\"https://opengeofiction.net\">OpenGeofiction</a>'
         }),
             map = L.map('map').setView([0, 125], 7);
         map.addLayer(ogf);
