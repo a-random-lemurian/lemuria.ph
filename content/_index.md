@@ -1,5 +1,6 @@
 ---
 title: Lemuria - Filipino programmer
+description: Filipino programmer, mapmaker, conlanger, living in Manila.
 ---
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Blank_map_of_the_Philippines_%28Provinces%29.svg/500px-Blank_map_of_the_Philippines_%28Provinces%29.svg.png"
