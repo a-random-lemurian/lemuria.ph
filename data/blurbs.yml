@@ -1,0 +1,24 @@
+main:
+  - id: lct01
+    href: "https://lct01.lemuria.ph"
+    title: First Lemurian Clothing Taxonomy
+    desc: |
+      The First Lemurian Clothing Taxonomy (LCT-01) is a system of garment and fabric classification developed by Lemuria starting in September 2025. It is based on methods first developed for and used in biological taxonomy, such as binomial nomenclature, a tree-like structure, and nomenclatural ranks. In layman's terms: "Latin names, but for dresses!". An example of such a binomial name is Gunnelaurentia johnsonia for a make of a vintage Gunne Sax pattern by Lauren Johnson.
+
+  - id: conlangs
+    title: Conlangs
+    href: /conlangs
+    desc: |
+      My linguistics obsession has led me to the fun world of conlanging. It says a lot about me that the words I can best remember in these languages are "I don't know" (Thiguka: *Thakapah gelikalasa*; Kenahari: *Thalu likalamas*)
+
+  - id: opengeofiction
+    title: OpenGeofiction
+    href: /ogf
+    desc: |
+      I am a member of OpenGeofiction, a fictional mapping website, where I map the Filipino-style country Lutang.
+
+  - id: andirika
+    title: Andirika Map
+    href: /blog/2026/andirika-map/
+    desc: |
+      Following in the footsteps of OpenGeofiction, I set up my own full-blown OSM server stack just to build the world of Andirika in peace.

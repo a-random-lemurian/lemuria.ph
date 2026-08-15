@@ -42,28 +42,28 @@ Since 2026-02-17, I have had a PGP key, with the fingerprint `FAE4EB76583911333C
 
 Full key <a href="/static/lemuria.ph-FAE4EB76583911333CFDD41A93FA2B90940756A4.key">here</a>.
 
-<h3>OpenGeofiction</h3>
-<p>
-<b>OpenGeofiction</b> is a fictional mapping website that I was most
-active in during 2023. I still exist on the website.
-</p>
-<a href="/ogf.html">More information here.</a>
+## Projects
 
-<br>
-<h2>Linguistics</h2>
-<p>
-I have a major <b>linguistics</b> obsession. I have no degrees (yet).
-</p>
-<p>
-I also made a conlang called <a href="https://github.com/thiguka">Thiguka</a>.
-Most documentation of it is on the <a href="https://discord.com/invite/conlangs">Conlangs 
-Discord Network</a>, but hopefully I'll be able to release more
-Thiguka materials onto GitHub.
-</p>
-<p>
-<a href="https://conlangs.lemuria.ph">There is a conlangs page.</a>
-</p>
-<br>
+<div id="projects-list">
+{{< myinline.inline >}}
+  {{ with site.Data.blurbs.main }}{{ range . }}
+        <div id="project-{{.id}}">
+        <span style="font-size: 150%">
+                <a href="{{.href}}">
+                    {{ .title | markdownify }}
+                </a>
+        </span>
+        <p>
+            {{.desc | markdownify }}
+        </p>
+    </div>
+  {{end}}
+  {{ end }}
+{{< /myinline.inline >}}
+
+</div>
+
+
 <h2>Etymology</h2>
 <p>
 Lemuria is the name of a lost continent in the Indian Ocean. I

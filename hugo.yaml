@@ -36,3 +36,6 @@ outputs:
 
 params:
   gitRepoUrl: https://github.com/a-random-lemurian/lemuria.ph
+
+security:
+  enableInlineShortcodes: true
