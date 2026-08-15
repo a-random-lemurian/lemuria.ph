@@ -70,20 +70,18 @@ Lemuria is the name of a lost continent in the Indian Ocean. I
 adopted the name from when I had an interest in it, and it has
 since stuck.</p>
 <br>
-<h3>Other entities named "Lemuria"</h3>
+
+## Other entities named "Lemuria"
 <p>
 Any and all organizations that sell "Lemurian seed crystals" are
 scammers who engage in gross misuse of my name to spread their
-spiritual "holistic" nonsense. Stop it. <s>No, I will not take
-    your money as "licensing fees", because I do not wish to
-    profit off gullible spiritual people.</s></p>
+spiritual "holistic" nonsense. Stop it.
+
+If you do find a seed crystal that actually teleports you to Lemuria, don't use it. I don't want to see you living in my walls.
+</p>
 <p>
 I am also <b>not affiliated</b> with a group of two restaurants
-named "Lemuria" in BGC and Quezon City. They have been using the
-name longer than me, but given that both entities have different
-interests (computers and food service respectively), and that
-nobody has reached out to me with an inquiry clearly meant for
-the restaurant, I should be fine.
+named "Lemuria" in BGC and Quezon City. We serve HTTP 200 OK here, get your French-Mediterranean cuisine some place else. <s>We all know that I am more important than them.</s>
 </p>
 <p>
 The Lemuria wordmark, which appears below, is my logo, and should
