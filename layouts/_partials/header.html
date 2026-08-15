@@ -1,5 +1,41 @@
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
 <div class="navbar-container">
+    <section class="official-lemurian-site-banner">
+        <div>
+            <span class="olsb-title">
+                An official website of Lemuria and his power fantasies.
+
+                <button class="olsb-button" type="button" aria-expanded="false">
+                    <span>Here's how you know</span>
+                </button>
+            </span>
+        </div>
+        <div class="" id="olsb-content">
+            <p>
+                <strong>Lemuria's official websites use .lemuria.ph</strong><br>
+                A <strong>lemuria.ph</strong> website belongs to Lemuria, but only if he has enough money to renew it
+                yearly. So would a <strong>.lem</strong> website, but he'll need $1 million and a large trout to <a href="https://newgtldprogram.icann.org/en">slap ICANN with</a> if he wants that TLD.
+            </p>
+            <p>
+                <strong>Secure Lemurian websites use HTTPS</strong><br>
+                A lock (<strong>🔒</strong>) or <strong>https://</strong>
+                means you've safely connected to a Lemurian website.
+                Share your deepest darkest secrets only if you trust Lemuria with them.
+            </p>
+        </div>
+        <script>
+            const button = document.querySelector(".olsb-button");
+            const content = document.querySelector("#olsb-content");
+
+            button.addEventListener("click", () => {
+                const expanded = button.getAttribute("aria-expanded") === "true";
+
+                button.setAttribute("aria-expanded", String(!expanded));
+                content.classList.toggle("open", !expanded);
+            });
+        </script>
+
+    </section>
     <nav class="navbar">
         <div class="logo">
             <a class="logo" rel="author" href="/">

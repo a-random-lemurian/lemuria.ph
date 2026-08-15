@@ -291,3 +291,28 @@ footer {
         margin: 10px
     }
 }
+
+.official-lemurian-site-banner {
+    padding: 5px;
+    background-color: black;
+    font-size: 85%;
+}
+
+#olsb-content {
+    display: none;
+}
+
+#olsb-content.open {
+    display: unset;
+}
+
+.olsb-button {
+    border: 0;
+    display: inline;
+    background: none;
+    color: lightcoral;
+    font: inherit;
+    cursor: pointer;
+    align-items: center;
+    gap: 6px;
+}
