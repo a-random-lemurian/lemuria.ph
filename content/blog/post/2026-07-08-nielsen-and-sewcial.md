@@ -10,7 +10,7 @@ Welcome to this semi-"news article", a writeup by Lemuria of certain events he f
 
 <hr>
 
-The Australian sewist [Megan Nielsen](https://megannielsen.com/) is leaving Instagram [with a bang](https://www.instagram.com/p/Daezv3Qj_Pg), and inviting sewist folk (with two dollars to spare), to join her on her new app, [Sewcial](https://sewcialapp.com/). This July 8, 2026, Nielsen made a 12-image Instagram post where she attempted to defend herself from the barrage of online Internet vitriol directed at her.
+The Australian sewist [Megan Nielsen](https://megannielsen.com/) is leaving Instagram [with a bang](https://www.reddit.com/r/craftsnark/comments/1upv16n/megans_quitting_ig_and_wants_everyone_to_know_why/), and inviting sewist folk (with two dollars to spare), to join her on her new app, [Sewcial](https://sewcialapp.com/). This July 8, 2026, Nielsen made a 12-image Instagram post where she attempted to defend herself from the barrage of online Internet vitriol directed at her.
 
 Nielsen is facing criticism for her donations to World Vision Australia, itself getting the heat for the actions of its fellow American chapter, which was involved in a major court case, *[Aubry McMahon v. World Vision, Inc.](https://www.aclu.org/cases/aubry-mcmahon-v-world-vision-inc)*, where World Vision USA rescinded a job offer they made to McMahon after learning she was in a same-sex marriage. In her post, Nielsen emphasized that World Vision USA and World Vision Australia were distinct.
 
@@ -34,3 +34,4 @@ People have tried to reach out to Nielsen for comment, but they got no reply, so
 
 **Update 2026-07-24**: Sewcial is now known as Sewciable. Name change reasons unknown, but our gut feelings tell us trademark lawyers were involved.
 
+**Update 2026-08-30**: Nielsen took down the original Instagram post about her leaving the site. Thankfully, [r/craftsnark](https://www.reddit.com/r/craftsnark/comments/1upv16n/megans_quitting_ig_and_wants_everyone_to_know_why/) has a copy, so Nielsen's attempt to tamper with the historical record was thwarted. For historical reference, the original Instagram URL was <https://www.instagram.com/p/Daezv3Qj_Pg> (it appears in this site's Git history, anyway).
