@@ -4,6 +4,7 @@ date: 2026-07-26T08:22:53+08:00
 draft: false
 author: Lemuria
 slug: "andirika-map"
+archives: ["2026"]
 ---
 
 Today, this 2026-07-20, I am happy to announce the success of my efforts to get a fairly modern version of the OpenStreetMap Rails port up and running.

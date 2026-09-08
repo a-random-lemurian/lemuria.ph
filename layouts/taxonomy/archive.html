@@ -1,0 +1,18 @@
+{{ define "main" }}
+<h1>Posts from {{ .Title }}</h1>
+<p>
+  &leftarrow; <a href="/blog">Back to blog</a>
+</p>
+<ul class="post-list">
+  {{ range .Pages }}
+  <li>
+    <span class="top-row">
+      <a class="post-link post-title" href="{{ .RelPermalink }}">{{ .LinkTitle | safeHTML }}</a>
+      {{ $dateHuman := .Date | time.Format "2006-01-02" }}
+      <span class="post-meta">{{ $dateHuman }}</span>
+    </span>
+    {{ .Summary }}
+  </li>
+  {{ end }}
+</ul>
+{{ end }}

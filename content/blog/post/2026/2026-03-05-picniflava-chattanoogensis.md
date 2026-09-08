@@ -3,6 +3,7 @@ title: "<i>Picniflava chattanoogensis</i> sp. nov: An introduction to <i>Picnifl
 date: 2026-03-05T10:15:29+08:00
 slug: "picniflava-chattanoogensis"
 author: Lemuria
+archives: ["2026"]
 ---
 
 As we all may know, the First Lemurian Clothing Taxonomy (LCT-01) has been running for a long while. If you're new to it, read the [primer](/blog/2026/the-first-lemurian-clothing-taxonomy/), as it will help.

@@ -3,6 +3,7 @@ title: "\"Last online 16 years ago\": The dormant person feeling"
 date: 2025-08-11T01:37:13+08:00
 author: Lemuria
 slug: dormant-person-feeling
+archives: ["2025"]
 ---
 
 When you play video games, and look through your friends list, do you ever see "last seen 9 years ago"?

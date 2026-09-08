@@ -3,6 +3,7 @@ author: Lemuria
 date: "2025-05-28T00:05:10Z"
 title: New Jekyll blog
 slug: new-jekyll-blog
+archives: ["2025"]
 ---
 
 It's quite overcomplicated, but I somehow managed to cobble together a Jekyll theme that looks just like the root of lemuria.ph, and upload this to the server.

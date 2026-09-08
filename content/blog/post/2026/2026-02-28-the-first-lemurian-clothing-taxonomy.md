@@ -3,6 +3,7 @@ title: "A primer to the First Lemurian Clothing Taxonomy"
 date: 2026-02-28T13:17:38+08:00
 slug: "the-first-lemurian-clothing-taxonomy"
 author: Lemuria
+archives: ["2026"]
 ---
 
 This is a project that's been in the works since September 2025, when one day I got bored and started giving dresses Latin names, and now I know way too much about taxonomy. Not only that, my level of fashion knowledge now far exceeds the stereotypical gender role-based recommended amount for a heterosexual cisgender male.

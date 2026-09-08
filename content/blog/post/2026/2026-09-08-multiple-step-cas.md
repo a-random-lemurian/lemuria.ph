@@ -3,6 +3,7 @@ author: Lemuria
 date: "2026-09-08"
 title: How to use multiple Step CA instances to saturate your PKI with easter eggs
 slug: multiple-step-cas
+archives: ["2026"]
 ---
 
 Here on the Lemurian Intranet, we have the principle that if there's a practical opportunity to add an easter egg, that opportunity should be taken. One place where this opportunity finds a home is in the humble Common Name field of an X.509 certificate. Many companies tend to pick boring names for their certificates, like `Internet Widgits Pty Ltd Root ECC DV Root 1` and `Internet Widgits Pty Ltd Root ECC DV Intermediate 1.1`, as opposed to the intranet's naming convention of names such as `Lemuria Root A3 'Elizabeth'` and `Lemuria Root A3/02 'PearlescentMoon'`. It's more fun, and we think it has the added benefit of being easier to remember. A3/02 and A3/06 are easy to mix up, but it's a lot clearer what your coworker means when "Lorna's going to be EOL next week".

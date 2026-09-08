@@ -15,6 +15,7 @@ summaryLength: 1
 permalinks:
   page:
     blog: /blog/:year/:slug
+  archives: /blog/:slug
 
 mediaTypes:
   application/atom+xml:
@@ -33,6 +34,9 @@ outputs:
   section:
   - html
   - atom
+
+taxonomies:
+  archive: archives
 
 params:
   gitRepoUrl: https://github.com/a-random-lemurian/lemuria.ph

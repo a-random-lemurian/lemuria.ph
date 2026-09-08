@@ -4,6 +4,7 @@ date: "2024-12-23T00:00:00Z"
 modified_date: "2025-05-28"
 title: Why you shouldn't wish 10 million subscribers on your favorite creators
 slug: why-you-shouldnt-wish-10-million
+archives: ["2024"]
 ---
 
 Back then, I used to wish that every obscure singer I stumbled upon became popular, with millions of subscribers and fans. But now, I find this undesirable in many aspects.

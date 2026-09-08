@@ -4,6 +4,7 @@ date: 2026-08-03T03:04:46+08:00
 draft: false
 author: Lemuria
 slug: "breeding-as-many-grainnes-as-possible"
+archives: ["2026"]
 ---
 
 Ways to breed as many Gráinnes as possible. Our goal is to increase the concentration of people named Gráinne Ní Riain. Misspellings, especially misspellings that omit the fadas, are not counted. No Grainne Ni Riain. No Anglicizations either; sorry Grainne Ryan you don't count.

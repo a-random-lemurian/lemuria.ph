@@ -4,6 +4,7 @@ date: 2026-08-03T03:20:59+08:00
 draft: false
 author: Lemuria
 slug: "nielsen-and-zambrella"
+archives: ["2026"]
 ---
 
 Ever since the Australian sewist [Megan Nielsen](https://megannielsen.com/) went off to her new platform [Sewciable](https://sewcialapp.com/) (which was known as just Sewcial the last time we breathed down its neck), Nielsen has predictably been all quiet on Instagram and pretty much any outlet accessible to Lemuria and his one-man Taxonomy Board.

@@ -3,6 +3,7 @@ title: "Public transport is good!"
 author: Lemuria
 date: 2026-02-02T13:44:12+08:00
 slug: "public-transport-is-good"
+archives: ["2026"]
 ---
 
 Public transport is good!!

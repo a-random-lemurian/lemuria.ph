@@ -1,0 +1,27 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+
+<ul class="post-list">
+  {{ range first 10 .Pages }}
+  <li>
+    <span class="top-row">
+      <a class="post-link post-title" href="{{ .RelPermalink }}">{{ .LinkTitle | safeHTML }}</a>
+  {{ $dateHuman := .Date | time.Format "2006-01-02" }}
+      <span class="post-meta">{{ $dateHuman }}</span>
+    </span>
+    {{ .Summary }}
+  </li>
+  {{ end }}
+</ul>
+
+<h2>Archives</h2>
+<ul>
+  {{ range .Site.Taxonomies.archives.Alphabetical.Reverse }}
+    <li>
+      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> 
+      ({{ .Count }} post{{if gt .Count 1 }}s{{end}})
+    </li>
+  {{ end }}
+</ul>
+{{ end }}

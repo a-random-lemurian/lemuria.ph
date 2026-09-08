@@ -4,6 +4,7 @@ date: 2026-07-08T11:19:48+08:00
 draft: false
 author: Lemuria
 slug: "nielsen-and-sewcial"
+archives: ["2026"]
 ---
 
 Welcome to this semi-"news article", a writeup by Lemuria of certain events he finds interesting in the sewing community, especially when they become relevant to his [clothing taxonomy research](https://lct01.lemuria.ph).
