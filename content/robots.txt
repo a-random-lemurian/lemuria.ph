@@ -1,3 +1,7 @@
-User-agent: *
+# You can take a copy, but you can't take the server down while you do so. SLOW DOWN.
+
+User-Agent: *
 Allow: /
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
 Sitemap: https://lemuria.ph/sitemap.xml
+
