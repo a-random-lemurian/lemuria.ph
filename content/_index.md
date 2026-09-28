@@ -78,6 +78,8 @@ Any and all organizations that sell "Lemurian seed crystals" are
 scammers who engage in gross misuse of my name to spread their
 spiritual "holistic" nonsense. Stop it.
 
+Unless you use <a href="https://en.wikipedia.org/wiki/5D_optical_data_storage">5D optical data storage</a> in your seed crystal. If that's the case, you're less of a scam.
+
 If you do find a seed crystal that actually teleports you to Lemuria, don't use it. I don't want to see you living in my walls.
 </p>
 <p>
