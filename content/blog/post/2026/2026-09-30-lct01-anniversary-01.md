@@ -14,6 +14,8 @@ The taxonomy has not gone silent; rather, there just hasn't been enough activati
 
 As always we encourage interested parties to join the [LCT-01 Matrix space](https://matrix.to/#/#lct01:matrix.org) so that they stay up to date on the latest things happening in the LCT-01.
 
+But ultimately, it's dependent on Lemuria's unpredictable cycle of interests that seem to shift and change at random across a small pool.
+
 ## Our plans for next year
 We plan to keep breathing down the necks of sewists and pattern designers around the world by slapping Latin names on everything they make and ruthlessly subjecting them to maximum parsimony and maximum likelihood analysis.
 
