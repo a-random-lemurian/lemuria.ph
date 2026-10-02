@@ -1,6 +1,6 @@
 ---
 author: Lemuria
-date: "2026-09-30"
+date: "2026-10-02"
 title: The First Lemurian Clothing Taxonomy's first anniversary
 slug: lct01-anniversary-01
 archives: ["2026"]
@@ -21,4 +21,4 @@ We plan to keep breathing down the necks of sewists and pattern designers around
 
 ----
 
-*Work on authoring this blog post began on 2026-09-23. Remember, you can always check the git history.*
+*Work on authoring this blog post began on 2026-09-23. Remember, you can always check the git history. Also, in typical Lemurian fashion, he forgot to post it in 2026-09-30 and only remembered on 2026-10-02.*
